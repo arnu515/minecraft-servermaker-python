@@ -6,7 +6,7 @@
 #   All files obtained from https://yivesmirror.com/
 #
 #   Feel free to change the code or fork it on GitHub!
-#   https://github.com/arnu515/minecraft-server-maker-cli/
+#   https://github.com/arnu515/minecraft-servermaker-python/
 #
 
 
